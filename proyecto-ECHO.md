@@ -111,22 +111,13 @@ Como intento de solución termina por acudir al profeta de Imípolis, llamado el
 
 
 Autores:  
-<!---
-Incluir lista de personas del grupo 
-Se puede añadir enlace a página personal de github o lo que se quiera...(optativo)
--->
 
-- :man: minombre
-- :woman: minombre
-- :woman: minombre 
-
-<!---
-Lista completa de emojis de markDown - https://gist.github.com/rxaviers/7360908) 
--->
+- 🌑: Víctor Cicuéndez Hernández
+- 🌔: Aura Muñoz Martínez
+- 🌕: Alejandra Sánchez Benet 
 
 
-
-Febrero, 202X
+Febrero, 2023
 
 Proyecto dentro de la serie [COMAV Stories]8https://github.com/mgea/storytelling_22/blob/master/What_is_a_HRUN_story.md) y su versión [online](https://utopolis.ugr.es/media/HRUN/)  
 Proyectos seleccionados de [2022](https://github.com/mgea/storytelling/blob/master/2022/readme.md) / [2021](https://github.com/mgea/storytelling/blob/master/2021/readme.md) / [2020](https://github.com/mgea/storytelling/blob/master/2020/readme.md)  / 

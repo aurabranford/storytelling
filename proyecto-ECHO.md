@@ -38,6 +38,9 @@ _Autores: (Victor Cicuéndez Hernández, Aura Muñoz Martínez y Alejandra Sánc
 
 
 # Historia
+Echo es una persona hedonista, pues su mayor objetivo es vivir una vida tranquila y despreocupada junto a su perro Karl. Sin embargo, _El Desconocido_ comienza a hablarle en sueños, donde le implanta la idea de que debe buscar el sentido de la vida y la misión que tiene en este mundo como persona. Echo entonces comienza a obsesionarse por descubrir el sentido mismo de la vida, el saber qué es vivir y de dónde nacen esas ganas de disfrutar la vida.
+
+Es entonces cuando acude a ZEIT, quien le ayuda a viajar a través de distintos planos espacio-temporales donde explorará y conocerá varias ciudades y localizaciones, habitadas por sociedades muy diferentes que intentarán dar respuesta a sus preguntas vitales.
 
 
 ## Contexto

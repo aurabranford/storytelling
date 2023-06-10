@@ -80,7 +80,7 @@ Como intento de solución termina por acudir al profeta de Imípolis, llamado el
 
 # Productos
 
-- Personaje: 
+- Personaje: **Echo**
 
 ![](https://github.com/aurabranford/storytelling/blob/master/echo%20happy.png)
 
@@ -92,7 +92,7 @@ Como intento de solución termina por acudir al profeta de Imípolis, llamado el
 
 - Banner/Teaser: 
 
-[ArcWeave]
+[ArcWeave](https://arcweave.com/app/project/1M62P2nlwr/play)
 
 [Protopie]
 

@@ -105,9 +105,11 @@ Como intento de solución termina por acudir al profeta de Imípolis, llamado el
 
 
 # Conclusiones/Valoración del equipo
-
 ------
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CC-BY-SA-Andere_Wikis_%28v%29.svg/200px-CC-BY-SA-Andere_Wikis_%28v%29.svg.png)
+
+Como conclusión final, debemos mencionar que este proyecto nos ha resultado muy enriquecedor en el sentido de que hemos podido explorar diversas herramientas de creación de nuevos medios como ArcWeave, Protopie y Ren'py, entre otras.
+Asímismo, hemos disfrutado creando nuestro personaje, su contexto y el mundo que le rodea desde cero, pudiendo así de esa manera explotar nuestra capacidad tanto creativa como artística. En definitiva, ha resultado una experiencia innovadora (puesto que no habíamos realizado un proyecto de este tipo anteriormente en el Grado) y muy gratificante.
 
 
 Autores:  

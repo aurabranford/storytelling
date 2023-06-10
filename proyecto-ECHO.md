@@ -18,6 +18,8 @@ Tipo/Género:
 
 ## Resumen
 
+![](https://github.com/aurabranford/storytelling/blob/master/casita.jfif)
+
 
 ### Personaje
 

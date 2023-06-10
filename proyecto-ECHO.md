@@ -94,12 +94,12 @@ Como intento de solución termina por acudir al profeta de Imípolis, llamado el
 
 [ArcWeave](https://arcweave.com/app/project/1M62P2nlwr/play)
 
-[Protopie]
+[Protopie](https://cloud.protopie.io/p/aa27669784a52f0b63e6ce7d)
 
 
 - Storytelling:
 
-[Ren'py]
+[Ren'py](https://pradogrado2223.ugr.es/mod/forum/discuss.php?d=84199)
 
 
 

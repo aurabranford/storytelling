@@ -31,9 +31,7 @@ En Imípolis, Echo y Karl entablarán amistad con varios individuos que aportar�
 
 # Personaje
 
-![](https://github.com/mgea/storytelling/blob/master/img-nobody.png)
-
-Nombre: 
+Nombre: **Echo**
 
 
 # Historia

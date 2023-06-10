@@ -34,7 +34,6 @@ En Imípolis, Echo y Karl entablarán amistad con varios individuos que aportar�
 Nombre: **Echo**
 
 ![](https://github.com/aurabranford/storytelling/blob/master/Echo%20-%20Ficha%20T%C3%A9cnica.png)
-_Autores: (Victor Cicuéndez Hernández, Aura Muñoz Martínez y Alejandra Sánchez Benet)._
 
 
 # Historia

@@ -58,7 +58,10 @@ _Imípolis, uno de los principales lugares de la acción_
 Es el primer lugar donde aterrizan Echo, Karl y ZEIT tras un breve viaje por el espacio-tiempo. Imípolis es una ciudad aparentemente rústica, aunque no se sabe muy bien en qué periodo temporal se encuentra. Aunque estéticamente es muy parecida a una ciudad normal y corriente, los habitantes de la misma poseen una tecnología sorprendente, lo que hace pensar que se trata de una sociedad nómada que se apodera de las ruinas que encuentran y las restauran para volverlas habitables en lugar de construir de cero.
 _____________________________________________________________________________________________________
 
+![](https://github.com/aurabranford/storytelling/blob/master/bg%20imeligion.png)
 _Imeligion, segundo asentamiento protagonista de nuestra historia._
+
+Al contraro que Imípolis, se trata de un pequeño pueblo de moradores situado a unos veinte minutos de la capital. En este curioso asentamiento se encuentra la Iglesia principal de la Comarca, donde habita el Imi Budista que le proporciona diversas respuestas así como nuevas preguntas a nuestro principal protagonista. La visita a Imeligion resultará en un punto clave para la aventura de Echo.
 
 
 ## Conflicto 

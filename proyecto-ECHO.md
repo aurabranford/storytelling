@@ -45,6 +45,11 @@ Es entonces cuando acude a ZEIT, quien le ayuda a viajar a través de distintos 
 
 ## Contexto
 
+![](https://github.com/aurabranford/storytelling/blob/master/zeit%20transformation.png)
+_ZEIT, la Inteligencia Artificial que le ayudará a transportarse por el espacio-tiempo._
+
+Se trata de un pequeño robot con consciencia propia controlado por una Inteligencia Artificial ancestral. No se sabe casi nada sobre su procedencia, ya que fue un regalo de la madre de Echo antes de su inesperado fallecimiento. Es prácticamente su única herencia, ya que ella sabía que su hijo podría acabar necesitándolo en algún momento de su vida.
+
 
 ## Conflicto 
 

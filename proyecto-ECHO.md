@@ -51,13 +51,16 @@ _ZEIT, la Inteligencia Artificial que le ayudará a transportarse por el espacio
 
 Se trata de un pequeño robot con consciencia propia controlado por una Inteligencia Artificial ancestral. No se sabe casi nada sobre su procedencia, ya que fue un regalo de la madre de Echo antes de su inesperado fallecimiento. Es prácticamente su única herencia, ya que ella sabía que su hijo podría acabar necesitándolo en algún momento de su vida.
 
-_____________________________________________________________________________________________________
+
+## **Imípolis**
 
 ![](https://github.com/aurabranford/storytelling/blob/master/bg%20imipolis.png)
 _Imípolis, uno de los principales lugares de la acción_
 
 Es el primer lugar donde aterrizan Echo, Karl y ZEIT tras un breve viaje por el espacio-tiempo. Imípolis es una ciudad aparentemente rústica, aunque no se sabe muy bien en qué periodo temporal se encuentra. Aunque estéticamente es muy parecida a una ciudad normal y corriente, los habitantes de la misma poseen una tecnología sorprendente, lo que hace pensar que se trata de una sociedad nómada que se apodera de las ruinas que encuentran y las restauran para volverlas habitables en lugar de construir de cero.
-_____________________________________________________________________________________________________
+
+
+## **Imeligion** 
 
 ![](https://github.com/aurabranford/storytelling/blob/master/bg%20imeligion.png)
 _Imeligion, segundo asentamiento protagonista de nuestra historia._
@@ -77,13 +80,26 @@ Como intento de solución termina por acudir al profeta de Imípolis, llamado el
 
 # Productos
 
-- Personaje: (img personaje y enlace a interactivo) 
+- Personaje: 
+
+![](https://github.com/aurabranford/storytelling/blob/master/echo%20happy.png)
 
 
-- Banner/Teaser:  (enlace) 
+- Enlace al interactivo: 
+
+[H5P](https://h5p.org/node/1368753)
 
 
-- Storytelling: (enlace) 
+- Banner/Teaser: 
+
+[ArcWeave]
+
+[Protopie]
+
+
+- Storytelling:
+
+[Ren'py]
 
 
 

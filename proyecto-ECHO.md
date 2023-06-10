@@ -6,9 +6,9 @@ Nombre del Equipo: _The Travelers_ (Grupo 7)
 
 Enlace al proyecto original: [Storytelling](https://github.com/aurabranford/storytelling)
 
-Enlace al interactivo:
+Enlace al interactivo: [H5P](https://h5p.org/node/1368753)
 
-Proyecto (código): 
+Proyecto: 
 
 Tipo/Género:  
 - [x] FictionCiberpunk  

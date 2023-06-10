@@ -38,6 +38,7 @@ _Autores: (Victor Cicuéndez Hernández, Aura Muñoz Martínez y Alejandra Sánc
 
 
 # Historia
+
 Echo es una persona hedonista, pues su mayor objetivo es vivir una vida tranquila y despreocupada junto a su perro Karl. Sin embargo, _El Desconocido_ comienza a hablarle en sueños, donde le implanta la idea de que debe buscar el sentido de la vida y la misión que tiene en este mundo como persona. Echo entonces comienza a obsesionarse por descubrir el sentido mismo de la vida, el saber qué es vivir y de dónde nacen esas ganas de disfrutar la vida.
 
 Es entonces cuando acude a ZEIT, quien le ayuda a viajar a través de distintos planos espacio-temporales donde explorará y conocerá varias ciudades y localizaciones, habitadas por sociedades muy diferentes que intentarán dar respuesta a sus preguntas vitales.
@@ -65,6 +66,14 @@ Al contraro que Imípolis, se trata de un pequeño pueblo de moradores situado a
 
 
 ## Conflicto 
+
+Echo encuentra una profunda crisis existencial en su interior ya que, al contrario de lo que pensaba, ninguno de los personajes con los que dialoga consigue darle una respuesta clara a lo que es el sentido de la vida.
+
+![](https://github.com/aurabranford/storytelling/blob/master/wisdom%20imi%20close.png)
+_El Gran Sabio Imi, uno de los principales protagonistas de la historia._
+
+Por tanto, termina por acudir al profeta de Imípolis, conocido como el Gran Sabio Imi, para obtener una respuesta clara de primera mano. Sin embargo, cada vez se da más cuenta de que quizá debería adoptar una actitud menos terrenal, y enfocarse más en lo filosófico y lo reflexivo así como adentrarse en su mundo interior.
+
 
 
 

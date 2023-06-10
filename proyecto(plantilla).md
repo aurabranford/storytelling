@@ -1,8 +1,12 @@
 
 
-# Proyecto Storytelling (template): 
+# Proyecto Storytelling: ECHO
 
-Nombre del Equipo: 
+Nombre del Equipo: _The Travelers_ (Grupo 7)
+
+Enlace al proyecto original: [Storytelling](https://github.com/aurabranford/storytelling)
+
+Enlace al interactivo:
 
 Proyecto (código): 
 

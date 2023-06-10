@@ -67,14 +67,12 @@ Al contraro que Imípolis, se trata de un pequeño pueblo de moradores situado a
 
 ## Conflicto 
 
-Echo encuentra una profunda crisis existencial en su interior ya que, al contrario de lo que pensaba, ninguno de los personajes con los que dialoga consigue darle una respuesta clara a lo que es el sentido de la vida.
+Echo se enfrenta entonces a una profunda crisis existencial en su interior, ya que, al contrario de lo que pensaba, ninguno de los personajes con los que dialoga consigue darle una respuesta clara a lo que es el sentido de la vida.
 
 ![](https://github.com/aurabranford/storytelling/blob/master/wisdom%20imi%20close.png)
 _El Gran Sabio Imi, uno de los principales protagonistas de la historia._
 
-Por tanto, termina por acudir al profeta de Imípolis, conocido como el Gran Sabio Imi, para obtener una respuesta clara de primera mano. Sin embargo, cada vez se da más cuenta de que quizá debería adoptar una actitud menos terrenal, y enfocarse más en lo filosófico y lo reflexivo así como adentrarse en su mundo interior.
-
-
+Como intento de solución termina por acudir al profeta de Imípolis, llamado el Gran Sabio Imi, para obtener una respuesta clara de primera mano. Sin embargo, su conversación con él le hace darse cuenta de que quizá debería adoptar una actitud menos terrenal, y enfocarse más en lo filosófico y lo reflexivo; así como adentrarse en su mundo interior.
 
 
 # Productos

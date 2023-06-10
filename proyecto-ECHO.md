@@ -16,7 +16,7 @@ Tipo/Género:
 - [ ] Comic
 
 
-## Resumen
+# Resumen
 
 ![](https://github.com/aurabranford/storytelling/blob/master/casita.jfif)
 _"Casita", lugar donde habitan Echo y Karl_
@@ -29,24 +29,24 @@ A consecuencia de esto decide pedirle ayuda a ZEIT, un artilugio robótico hered
 En Imípolis, Echo y Karl entablarán amistad con varios individuos que aportarán distantes opiniones sobre la gran cuestión que ronda la cabeza de Echo, aunque no tienen la seguridad de acabar encontrando la respuesta a sus preguntas. ¿Qué futuro le deparará a nuestro protagonista? ¿Será capaz de llegar a una conclusión y poder retomar la cotidianidad de su vida?
 
 
-### Personaje
+# Personaje
 
 ![](https://github.com/mgea/storytelling/blob/master/img-nobody.png)
 
 Nombre: 
 
 
-### Historia
+# Historia
 
 
-### Contexto
+## Contexto
 
 
-### Conflicto 
+## Conflicto 
 
 
 
-### Productos
+# Productos
 
 - Personaje: (img personaje y enlace a interactivo) 
 
@@ -59,7 +59,7 @@ Nombre:
 
 
 
-### Conclusiones/Valoración del equipo
+# Conclusiones/Valoración del equipo
 
 ------
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CC-BY-SA-Andere_Wikis_%28v%29.svg/200px-CC-BY-SA-Andere_Wikis_%28v%29.svg.png)

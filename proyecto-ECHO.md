@@ -21,9 +21,12 @@ Tipo/Género:
 ![](https://github.com/aurabranford/storytelling/blob/master/casita.jfif)
 _"Casita", lugar donde habitan Echo y Karl_
 
+
 Echo, el protagonista de nuestra historia, es una persona calmada cuya máxima preocupación es pasar el rato viendo la televisión y disfrutando de su día a día de la forma más hedonista posible junto a su compañero canino Karl. Sin embargo, un día comienza a soñar que se encuentra flotando en el espacio, y una voz de procedencia desconocida le cuestiona cuál es el sentido de la vida y cuál es el motivo de las decisiones que toma.
 
 A consecuencia de esto decide pedirle ayuda a ZEIT, un artilugio robótico heredado de su difunta madre con la capacidad de viajar a distintas realidades espacio-temporales y la posibilidad de entrar en contacto con otras especies y entidades. El pequeño robot acepta, y transporta a Echo y a Karl hasta Imípolis, una gran ciudad ancestral habitada por los Imis, seres que destacan por su naturaleza observadora y filosófica.
+
+En Imípolis, Echo y Karl entablarán amistad con varios individuos que aportarán distantes opiniones sobre la gran cuestión que ronda la cabeza de Echo, aunque no tienen la seguridad de acabar encontrando la respuesta a sus preguntas. ¿Qué futuro le deparará a nuestro protagonista? ¿Será capaz de llegar a una conclusión y poder retomar la cotidianidad de su vida?
 
 
 ### Personaje

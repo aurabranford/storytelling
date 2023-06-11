@@ -98,7 +98,7 @@ Como intento de solución termina por acudir al profeta de Imípolis, llamado el
 
 - Storytelling:
 
-[Ren'py](https://pradogrado2223.ugr.es/mod/forum/discuss.php?d=84199)
+[Ren'py](https://pradogrado2223.ugr.es/mod/forum/discuss.php?d=86187#p113241)
 
 
 
